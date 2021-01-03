@@ -388,7 +388,3 @@
 编程1
 
 刘慈欣1
-
-### 引用
-
-https://book.douban.com/people/151014697/
